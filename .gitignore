@@ -8,6 +8,7 @@ yarn-error.log*
 
 # Ignore environment variable files
 .env
+.nav
 
 # Ignore operating system files
 .DS_Store
